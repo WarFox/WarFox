@@ -9,3 +9,7 @@
 - :mage_man: Writes Clojure, Typescript, Python, Scala, Java, Ruby, Terraform, and more
 - 📫 How to reach me: 🐦 @deepumohanp 🔑 https://keybase.io/warfox
 - 😄 Pronouns: He/Him
+
+[![Deepu's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarFox&show_icons=true&theme=dark&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarFox)](https://github.com/anuraghazra/github-readme-stats)
