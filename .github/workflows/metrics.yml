@@ -13,17 +13,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
           user: WarFox
           template: classic
           base: header, activity, community, repositories, metadata
@@ -41,4 +32,5 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%25
 
-          output_action: none
+          output_action: gist
+          committer_gist: 17b755e901001b643d75299be4db1aa5
