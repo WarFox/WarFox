@@ -2,7 +2,7 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 10 * * 0"}] # Every Sunday at 10:00 am
+  schedule: [{cron: "0 6 * * 1"}] # Every Monday at 6:00 am
   workflow_dispatch:
   push:
 
