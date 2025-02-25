@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🪜 Polyglot Software Engineer with experience in Backend, Frontend, Data Platform engineering 
+- 🪜 Polyglot Software Engineer with experience in Backend, Frontend, Data Platform engineering, and AWS Cloud
 - 👨‍💻 Works at [CAIS](https://caisgroup.com/)
 - 🌱 I’m currently learning [Kotlin](https://www.kotlinlang.org) and [Kubernetes](https://kubernetes.io/)
 - :heart: I work with [emacs](https://www.gnu.org/software/emacs/) and love [Clojure](https://clojure.org/)([Script](https://clojurescript.org/))
